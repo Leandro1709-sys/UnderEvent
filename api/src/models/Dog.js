@@ -14,5 +14,5 @@ module.exports = (sequelize) => {
 };
 
 function a(){
-  return 'hola'
+  return 'caca'
 }
