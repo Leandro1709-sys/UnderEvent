@@ -10,5 +10,9 @@ module.exports = (sequelize) => {
     },
   });
   ///// probando cambios
-  
+
 };
+
+function a(){
+  return 'hola'
+}
